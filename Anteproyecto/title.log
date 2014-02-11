@@ -1,0 +1,542 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.2.7)  7 FEB 2014 03:22
+entering extended mode
+ %&-line parsing enabled.
+**title.tex
+(./title.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (52.30527pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 SISTEMA 
+ []
+
+
+Overfull \hbox (16.37491pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 DE 
+ []
+
+
+Overfull \hbox (17.19435pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 IN- 
+ []
+
+
+Overfull \hbox (28.01373pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 FOR- 
+ []
+
+
+Overfull \hbox (49.59695pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 MACI[]ON 
+ []
+
+
+Overfull \hbox (32.91649pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 PARA 
+ []
+
+
+Overfull \hbox (52.98581pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 GESTI[]ON 
+ []
+
+
+Overfull \hbox (16.37491pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 DE 
+ []
+
+
+Overfull \hbox (28.31929pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 CER- 
+ []
+
+
+Overfull \hbox (16.19435pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 TI- 
+ []
+
+
+Overfull \hbox (15.43047pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 FI- 
+ []
+
+
+Overfull \hbox (20.83322pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 CA- 
+ []
+
+
+Overfull \hbox (23.84709pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 DOS 
+ []
+
+
+Overfull \hbox (16.55547pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 EN 
+ []
+
+
+Overfull \hbox (36.52757pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 LINEA 
+ []
+
+
+Overfull \hbox (42.59698pt too wide) in paragraph at lines 6--6
+ []\OT1/cmr/bx/n/10 JAVIER 
+ []
+
+
+Overfull \hbox (26.40263pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 SER- 
+ []
+
+
+Overfull \hbox (34.95815pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 RANO 
+ []
+
+
+Overfull \hbox (51.22194pt too wide) in paragraph at lines 6--6
+ []\OT1/cmr/bx/n/10 MELISSA 
+ []
+
+
+Overfull \hbox (29.09706pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 TOR- 
+ []
+
+
+Overfull \hbox (22.56932pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 RES 
+ []
+
+
+Overfull \hbox (54.26358pt too wide) in paragraph at lines 11--11
+ []\OT1/cmr/bx/n/10 ESCUELA 
+ []
+
+
+Overfull \hbox (47.24974pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 COLOM- 
+ []
+
+
+Overfull \hbox (38.93034pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 BIANA 
+ []
+
+
+Overfull \hbox (16.37491pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 DE 
+ []
+
+
+Overfull \hbox (29.45818pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 CAR- 
+ []
+
+
+Overfull \hbox (39.88867pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 RERAS 
+ []
+
+
+Overfull \hbox (17.19435pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 IN- 
+ []
+
+
+Overfull \hbox (27.88873pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 DUS- 
+ []
+
+
+Overfull \hbox (24.8193pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 TRI- 
+ []
+
+
+Overfull \hbox (29.55539pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 ALES 
+ []
+
+
+Overfull \hbox (61.99965pt too wide) in paragraph at lines 11--11
+ []\OT1/cmr/bx/n/10 FACULTAD 
+ []
+
+
+Overfull \hbox (16.37491pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 DE 
+ []
+
+
+Overfull \hbox (17.19435pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 IN- 
+ []
+
+
+Overfull \hbox (20.43044pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 GE- 
+ []
+
+
+Overfull \hbox (42.59698pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 NIERIA 
+ []
+
+
+Overfull \hbox (72.55515pt too wide) in paragraph at lines 11--11
+ []\OT1/cmr/bx/n/10 INGENIER[]IA 
+ []
+
+
+Overfull \hbox (16.37491pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 DE 
+ []
+
+
+Overfull \hbox (20.9721pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 SIS- 
+ []
+
+
+Overfull \hbox (41.55533pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 TEMAS 
+ []
+
+
+Overfull \hbox (54.38858pt too wide) in paragraph at lines 11--11
+ []\OT1/cmr/bx/n/10 BOGOT[]A, 
+ []
+
+
+Overfull \hbox (23.51376pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 D.C. 
+ []
+
+
+Overfull \hbox (22.99988pt too wide) in paragraph at lines 11--12
+ []\OT1/cmr/bx/n/10 2014 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (52.30527pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 SISTEMA 
+ []
+
+
+Overfull \hbox (16.37491pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 DE 
+ []
+
+
+Overfull \hbox (17.19435pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 IN- 
+ []
+
+
+Overfull \hbox (28.01373pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 FOR- 
+ []
+
+
+Overfull \hbox (49.59695pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 MACI[]ON 
+ []
+
+
+Overfull \hbox (32.91649pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 PARA 
+ []
+
+
+Overfull \hbox (52.98581pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 GESTI[]ON 
+ []
+
+
+Overfull \hbox (16.37491pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 DE 
+ []
+
+
+Overfull \hbox (28.31929pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 CER- 
+ []
+
+
+Overfull \hbox (16.19435pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 TI- 
+ []
+
+
+Overfull \hbox (15.43047pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 FI- 
+ []
+
+
+Overfull \hbox (20.83322pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 CA- 
+ []
+
+
+Overfull \hbox (23.84709pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 DOS 
+ []
+
+
+Overfull \hbox (16.55547pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 EN 
+ []
+
+
+Overfull \hbox (36.52757pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 LINEA 
+ []
+
+
+Overfull \hbox (42.59698pt too wide) in paragraph at lines 18--18
+ []\OT1/cmr/bx/n/10 JAVIER 
+ []
+
+
+Overfull \hbox (26.40263pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 SER- 
+ []
+
+
+Overfull \hbox (34.95815pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 RANO 
+ []
+
+
+Overfull \hbox (51.22194pt too wide) in paragraph at lines 18--18
+ []\OT1/cmr/bx/n/10 MELISSA 
+ []
+
+
+Overfull \hbox (29.09706pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 TOR- 
+ []
+
+
+Overfull \hbox (22.56932pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 RES 
+ []
+
+
+Overfull \hbox (67.41634pt too wide) in paragraph at lines 18--18
+ []\OT1/cmr/bx/n/10 Anteproyecto 
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 de 
+ []
+
+
+Overfull \hbox (14.58325pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 In- 
+ []
+
+
+Overfull \hbox (19.39017pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 ves- 
+ []
+
+
+Overfull \hbox (11.49994pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 ti- 
+ []
+
+
+Overfull \hbox (31.78453pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 gaci^^Son 
+ []
+
+
+Overfull \hbox (54.26358pt too wide) in paragraph at lines 23--23
+ []\OT1/cmr/bx/n/10 ESCUELA 
+ []
+
+
+Overfull \hbox (47.24974pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 COLOM- 
+ []
+
+
+Overfull \hbox (38.93034pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 BIANA 
+ []
+
+
+Overfull \hbox (16.37491pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 DE 
+ []
+
+
+Overfull \hbox (29.45818pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 CAR- 
+ []
+
+
+Overfull \hbox (39.88867pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 RERAS 
+ []
+
+
+Overfull \hbox (17.19435pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 IN- 
+ []
+
+
+Overfull \hbox (27.88873pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 DUS- 
+ []
+
+
+Overfull \hbox (24.8193pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 TRI- 
+ []
+
+
+Overfull \hbox (29.55539pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 ALES 
+ []
+
+
+Overfull \hbox (61.99965pt too wide) in paragraph at lines 23--23
+ []\OT1/cmr/bx/n/10 FACULTAD 
+ []
+
+
+Overfull \hbox (16.37491pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 DE 
+ []
+
+
+Overfull \hbox (17.19435pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 IN- 
+ []
+
+
+Overfull \hbox (20.43044pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 GE- 
+ []
+
+
+Overfull \hbox (42.59698pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 NIERIA 
+ []
+
+
+Overfull \hbox (72.55515pt too wide) in paragraph at lines 23--23
+ []\OT1/cmr/bx/n/10 INGENIER[]IA 
+ []
+
+
+Overfull \hbox (16.37491pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 DE 
+ []
+
+
+Overfull \hbox (20.9721pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 SIS- 
+ []
+
+
+Overfull \hbox (41.55533pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 TEMAS 
+ []
+
+
+Overfull \hbox (54.38858pt too wide) in paragraph at lines 23--23
+ []\OT1/cmr/bx/n/10 BOGOT[]A, 
+ []
+
+
+Overfull \hbox (23.51376pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 D.C. 
+ []
+
+
+Overfull \hbox (22.99988pt too wide) in paragraph at lines 23--24
+ []\OT1/cmr/bx/n/10 2014 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> title.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 15 strings out of 493848
+ 217 string characters out of 1152824
+ 49808 words of memory out of 3000000
+ 3389 multiletter control sequences out of 15000+50000
+ 3948 words of font info for 15 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 19i,4n,14p,185b,124s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

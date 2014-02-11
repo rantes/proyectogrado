@@ -1,0 +1,45 @@
+\documentclass[12pt]{report}
+\usepackage{amssymb,amsmath,alltt}
+\usepackage{graphicx}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{setspace}
+\usepackage{epsfig}
+%este es el archivo de configuracion
+\input{input}
+
+% Se puede cambiar los siguientes parámetros para modificar el acomodo del texto
+\geometry{lmargin=4cm,rmargin=2cm,tmargin=3cm,bmargin=3cm}
+\parskip= 6pt
+%definicion de los archivos
+
+\begin{document}
+\pagenumbering{gobble}
+\input{title}
+\newpage
+\tableofcontents
+\newpage
+\listoffigures
+\newpage
+\pagenumbering{arabic} \setcounter{page}{1}
+\pagestyle{fancy}
+\include{tituloyproblema}
+\newpage
+\include{objetivos}
+\newpage
+\include{justificacion}
+\newpage
+\include{marcos}
+\newpage
+\include{tipodiseno}
+\newpage
+\include{fuentes}
+\newpage
+\include{recursos}
+\newpage
+\include{cronograma}
+\pagenumbering{gobble}% Remove page numbers (and reset to 1)
+\clearpage
+\thispagestyle{empty}
+\include{myblib}
+\end{document}

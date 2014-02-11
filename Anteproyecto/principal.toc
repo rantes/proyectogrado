@@ -1,0 +1,23 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}T\'ITULO}{1}
+\contentsline {chapter}{\numberline {2}PROBLEMA}{1}
+\contentsline {section}{\numberline {2.1}DESCRIPCI\'ON DEL PROBLEMA}{1}
+\contentsline {section}{\numberline {2.2}FORMULACI\'ON DEL PROBLEMA}{1}
+\contentsline {chapter}{\numberline {3}OBJETIVOS}{2}
+\contentsline {section}{\numberline {3.1}OBJETIVO GENERAL}{2}
+\contentsline {section}{\numberline {3.2}OBJETIVOS ESPEC\'IFICOS}{2}
+\contentsline {chapter}{\numberline {4}JUSTIFICACI\'ON Y DELIMITACI\'ON DE LA INVESTIGACI\'ON}{3}
+\contentsline {section}{\numberline {4.1}JUSTIFICACI\'ON}{3}
+\contentsline {section}{\numberline {4.2}DELIMITACI\'ON}{3}
+\contentsline {chapter}{\numberline {5}MARCO DE REFERENCIA}{4}
+\contentsline {section}{\numberline {5.1}MARCO TE\'ORICO}{4}
+\contentsline {section}{\numberline {5.2}MARCO CONCEPTUAL}{4}
+\contentsline {section}{\numberline {5.3}MARCO LEGAL}{4}
+\contentsline {section}{\numberline {5.4}MARCO HISTORICO}{4}
+\contentsline {chapter}{\numberline {6}TIPO DE INVESTIGACI\'ON}{5}
+\contentsline {chapter}{\numberline {7}DISE\~NO METODOL\'OGICO}{6}
+\contentsline {chapter}{\numberline {8}FUENTES PARA LA OBTENCI\'ON DE INFORMACI\'ON}{7}
+\contentsline {section}{\numberline {8.1}FUENTES PRIMARIAS}{7}
+\contentsline {section}{\numberline {8.2}FUENTES SECUNDARIAS}{7}
+\contentsline {chapter}{\numberline {9}RECURSOS}{8}
+\contentsline {chapter}{\numberline {10}CRONOGRAMA}{9}
