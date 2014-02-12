@@ -22,6 +22,7 @@
 \usepackage[a4paper]{geometry}
 \usepackage[small,bf]{caption}
 %\usepackage{mathtools}
+%\usepackage{indentfirst}
 \pagestyle{fancy}
 
 % Coloca una línea en los encabezados
@@ -51,7 +52,7 @@
 \setlength{\captionmargin}{10pt}
 
 % Borra la palabra Capítulo del \chaptermark:
-\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\thechapter. #1}}{}}
+\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\thechapter. \dotfill #1}}{}}
 \renewcommand{\thechapter}{\arabic{chapter}}
 % Quita la palabra capitulo
 \addto\captionsspanish{\renewcommand{\chaptername}{}}
@@ -63,9 +64,14 @@
 
 
 \usepackage{titlesec}
+%cambiar los capitulos
+\titleclass{\chapter}{straight}
 \titleformat{\chapter}[block]
-  {\normalfont\Large\bfseries}{\thechapter}{8pt}{\MakeUppercase}{\Large}
+	{\setlength{\parindent}{0pt} \raggedright\normalfont\normalfont\bfseries}{\thechapter.}{5pt}{\MakeUppercase}{}
 \titlespacing*{\chapter}{12pt}{12pt}{12pt}
-
+% cambiar las secciones
+\titleformat{\section}[block]
+	{\setlength{\parindent}{0pt} \raggedright\normalfont\normalfont\bfseries}{\thesection.}{5pt}{\MakeUppercase}{}
+\titlespacing*{\section}{12pt}{12pt}{12pt}
 % definir la fuente
 \renewcommand*\rmdefault{Arial}

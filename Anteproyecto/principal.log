@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.2.7)  10 FEB 2014 21:07
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.2.7)  12 FEB 2014 02:22
 entering extended mode
  %&-line parsing enabled.
 **principal.tex
@@ -326,38 +326,38 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 \tf@toc=\write3
 \openout3 = `principal.toc'.
 
- [1
-
-] (./principal.lof)
+ [1] (./principal.lof)
 \tf@lof=\write4
 \openout4 = `principal.lof'.
 
 
-[2
-
-]
+[2]
 \openout2 = `tituloyproblema.aux'.
 
  (./tituloyproblema.tex
  1.
- 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
- 
+
+ []
+
+ 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--14
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
+Underfull \hbox (badness 10000) in paragraph at lines 8--14
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 14--26
+Underfull \hbox (badness 10000) in paragraph at lines 16--26
 
  []
 
 [1
-
 
 ]
 \openout2 = `objetivos.aux'.
@@ -365,7 +365,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--26
  (./objetivos.tex
  3.
 ) [2
-
 
 
 ]
@@ -381,7 +380,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--8
 ) [3
 
 
-
 ]
 \openout2 = `marcos.aux'.
 
@@ -390,33 +388,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--8
 ) [4
 
 
-
 ]
 \openout2 = `tipodiseno.aux'.
 
  (./tipodiseno.tex
  6.
-[5
-
-
-
-]
  7.
-) [6
+) [5
+
 
 ]
 \openout2 = `fuentes.aux'.
 
  (./fuentes.tex
  8.
-
-Overfull \hbox (4.19746pt too wide) in paragraph at lines 1--1
- |\OT1/Arial/bx/n/17.28 8 FUEN-TES PA-RA LA OB-TEN-CI[]ON DE IN-FOR-MA-CI[]ON| 
-
- []
-
-) [7
-
+) [6
 
 
 ]
@@ -424,8 +410,7 @@ Overfull \hbox (4.19746pt too wide) in paragraph at lines 1--1
 
  (./recursos.tex
  9.
-) [8
-
+) [7
 
 
 ]
@@ -433,8 +418,7 @@ Overfull \hbox (4.19746pt too wide) in paragraph at lines 1--1
 
  (./cronograma.tex
  10.
-) [9
-
+) [8
 
 
 ]
@@ -456,7 +440,6 @@ $%BFque-es-una-maquina-
 
 
 
-
 ] (./principal.aux (./tituloyproblema.aux) (./objetivos.aux)
 (./justificacion.aux) (./marcos.aux) (./tipodiseno.aux) (./fuentes.aux)
 (./recursos.aux) (./cronograma.aux) (./myblib.aux))
@@ -465,18 +448,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4313 strings out of 493848
- 58595 string characters out of 1152824
- 130430 words of memory out of 3000000
- 7471 multiletter control sequences out of 15000+50000
- 8584 words of font info for 33 fonts, out of 3000000 for 9000
+ 4311 strings out of 493848
+ 58560 string characters out of 1152824
+ 130384 words of memory out of 3000000
+ 7470 multiletter control sequences out of 15000+50000
+ 8285 words of font info for 32 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 38i,10n,43p,451b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
-e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on principal.pdf (14 pages, 47457 bytes).
+ 38i,10n,43p,451b,290s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on principal.pdf (13 pages, 32320 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
+ 49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

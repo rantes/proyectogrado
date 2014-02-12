@@ -15,9 +15,9 @@
 \contentsline {section}{\numberline {5.3}MARCO LEGAL}{4}
 \contentsline {section}{\numberline {5.4}MARCO HISTORICO}{4}
 \contentsline {chapter}{\numberline {6}TIPO DE INVESTIGACI\'ON}{5}
-\contentsline {chapter}{\numberline {7}DISE\~NO METODOL\'OGICO}{6}
-\contentsline {chapter}{\numberline {8}FUENTES PARA LA OBTENCI\'ON DE INFORMACI\'ON}{7}
-\contentsline {section}{\numberline {8.1}FUENTES PRIMARIAS}{7}
-\contentsline {section}{\numberline {8.2}FUENTES SECUNDARIAS}{7}
-\contentsline {chapter}{\numberline {9}RECURSOS}{8}
-\contentsline {chapter}{\numberline {10}CRONOGRAMA}{9}
+\contentsline {chapter}{\numberline {7}DISE\~NO METODOL\'OGICO}{5}
+\contentsline {chapter}{\numberline {8}FUENTES PARA LA OBTENCI\'ON DE INFORMACI\'ON}{6}
+\contentsline {section}{\numberline {8.1}FUENTES PRIMARIAS}{6}
+\contentsline {section}{\numberline {8.2}FUENTES SECUNDARIAS}{6}
+\contentsline {chapter}{\numberline {9}RECURSOS}{7}
+\contentsline {chapter}{\numberline {10}CRONOGRAMA}{8}
